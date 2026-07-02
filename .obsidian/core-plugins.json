@@ -24,5 +24,10 @@
   "workspaces": false,
   "file-recovery": true,
   "publish": false,
-  "sync": false
+  "sync": false,
+  "canvas": true,
+  "footnotes": false,
+  "slash-command": false,
+  "bases": true,
+  "webviewer": false
 }
