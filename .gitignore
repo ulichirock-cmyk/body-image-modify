@@ -1,0 +1,4 @@
+# Obsidian 本地状态文件，不应提交（因设备而异）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
